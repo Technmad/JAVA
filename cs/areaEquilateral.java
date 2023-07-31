@@ -1,3 +1,5 @@
+package cs;
+
 import java.util.Scanner;
 
 public class areaEquilateral {
